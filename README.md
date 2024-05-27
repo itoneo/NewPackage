@@ -1,6 +1,4 @@
-# NewPackage
-
-## 概要(Overview)
+# 概要(Overview)
 
 ## 説明(Description)
 
